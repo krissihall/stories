@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'wo-t-ember',
+    usePods: true,
     podModulePrefix: 'wo-t-ember/pods',
     environment: environment,
     rootURL: '/',
