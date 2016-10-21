@@ -5,7 +5,7 @@ var Inflector = require('ember-inflector-node-shim'),
     serialize = Serializer.serialize,
     normalize = Serializer.normalize,
     Datastore = require('nedb'),
-    db = new Datastore();
+    db = new Datastore({ filename: '/server/db/stories', autoload: true });
 
 // NAMES
 var namespace = '/api/',

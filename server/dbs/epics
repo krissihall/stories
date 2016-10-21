@@ -1,0 +1,3 @@
+{"id": 1, "title": "The Wheel of Time", "authors": [1,2], "description": "[this is a synopsis]", stories: [1]}
+{"id": 2, "title": "Harry Potter", "authors": [3], "description": "[synopsis for books]", stories: []}
+{"id": 3, "title": "The Hunger Games", "authors": [4], "description": "[synopsis for series]", stories: []}

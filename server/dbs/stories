@@ -1,0 +1,4 @@
+{"id": 1, "epic": 1, "title": "The Eye of the World", "authors": [1], "description": "[synopsis of book]"}
+{"id": 2, "epic": 1, "title": "The Great Hunt", "authors": [1], "description": "[synopsis of book]"}
+{"id": 3, "epic": 2, "title": "Harry Potter and the Sorcerer's Stone", "authors": [1], "description": "[synopsis of book]"}
+{"id": 4, "epic": 3, "title": "The Hunger Games", "authors": [4], "description": "[sypnosis of book]"}

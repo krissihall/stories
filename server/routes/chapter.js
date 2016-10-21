@@ -5,11 +5,11 @@ var Inflector = require('ember-inflector-node-shim'),
     serialize = Serializer.serialize,
     normalize = Serializer.normalize,
     Datastore = require('nedb'),
-    db = new Datastore({ filename: '/server/db/epics', autoload: true });
+    db = new Datastore({ filename: '/server/db/chapters', autoload: true });
 
 // NAMES
 var namespace = '/api/',
-    modelname = 'epic',
+    modelname = 'chapter',
     resourcename = Inflector.pluralize(modelname);
 
 

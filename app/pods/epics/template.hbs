@@ -1,0 +1,8 @@
+
+<ul>
+  {{#each model as |epic|}}
+    <li>
+      {{#link-to 'epic' 'epic.id'}}{{epic.title}}{{/link-to}}
+    </li>
+  {{/each}}
+</ul>
