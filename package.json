@@ -39,5 +39,12 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "loader.js": "^4.0.10"
+  },
+  "dependencies": {
+    "bookshelf": "^0.10.2",
+    "knex": "^0.12.6",
+    "lodash": "^4.16.4",
+    "mysql": "^2.11.1",
+    "when": "^3.7.7"
   }
 }
